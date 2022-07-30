@@ -1,0 +1,10 @@
+Haider 10 gra 45 23 5 
+Rohaan 85 Graphic 25 0 2 
+Ahsan 8564 SQL 29 15000 2 
+Zain 502 Designer 30 20000 5 
+Rafy 8056 Assistant 22 9000 1 
+Burhan 3636 Dev 26 13500 3 
+Wahab 5545 UI 21 9500 1 
+Ramsha 1245 UX 20 6000 0 
+Ali 1353 UI/UX 24 4343 6
+Anas 1212 Engineer 19 5 5 

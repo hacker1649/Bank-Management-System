@@ -1,0 +1,29 @@
+
+
+							 Welcome To The New Customer of FAST BANK
+
+
+
+
+
+
+					BANK DETAILS:
+
+
+The Bank Code:345
+The Bank location:g
+The Bank State:g
+
+
+							 CUSTOMER ACCOUNT DETAILS:
+
+
+The Customer Account Name:hello
+The Father name:asd
+The Date Of Birth:234 /234 /234
+The CNIC:234
+The Contact Number:234
+The Address :f
+The Email :f
+The Account Number:2
+The Account Balance:2222

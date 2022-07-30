@@ -1,0 +1,23 @@
+						BANK DETAILS:
+
+
+The Bank Code:8935
+The Bank location:Shah Latif Town
+The Bank State:Pakistan
+
+
+
+
+					 CUSTOMER ACCOUNT DETAILS:
+
+
+The Customer Account Name: Muhammad Bilal Hussain
+The Father name: Hussain Lakhani
+The Date Of Birth: 27/10/1989
+The CNIC: 44206-728358725-5
+The Contact Number: 0315-735785487
+The Address : Gulshan-e-Jauhar
+The Email : bilal.hussain27@gmail.com
+The Account Number:1
+The Account Balance: Rs 25,000
+
